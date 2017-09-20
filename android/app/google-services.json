@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "770674097653",
+    "firebase_url": "https://helppie-5e78e.firebaseio.com",
+    "project_id": "helppie-5e78e",
+    "storage_bucket": "helppie-5e78e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:770674097653:android:58bfd201bf294e9b",
+        "android_client_info": {
+          "package_name": "com.helppie"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "770674097653-lcnnjd65amg7gdddf4pd9trts690kmkk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPl6gE8e5Y27SErVP7s-jlwKbY3WFRXeg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
